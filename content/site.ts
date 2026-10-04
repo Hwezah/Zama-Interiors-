@@ -10,8 +10,8 @@ export const site = {
   name: "Zama",
   /** Full trading name: page titles, copyright, company details. */
   fullName: "Zama Interiors",
-  /** Header / menu / footer logo: `name` in serif with `sub` spread underneath to the same width; `mark: "roof"` adds the roof line. */
-  wordmark: { name: "ZAMA", sub: "INTERIORS", mark: "roof" },
+  /** Header / menu / footer logo: `name` in serif with `sub` spread underneath to the same width */
+  wordmark: { name: "ZAMA", sub: "INTERIORS" },
   /** Huge outlined word behind the About intros. */
   outlineWord: "Zama",
   /** Optional parent-company line (footer, contact page). Leave "" to hide. */
